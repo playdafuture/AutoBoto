@@ -1,0 +1,10 @@
+C:\Users\SH391MS\source\repos\AutoBoto\bin\Debug\AutoBoto.exe.config
+C:\Users\SH391MS\source\repos\AutoBoto\bin\Debug\AutoBoto.exe
+C:\Users\SH391MS\source\repos\AutoBoto\bin\Debug\AutoBoto.pdb
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.csprojAssemblyReference.cache
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.Form1.resources
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.Properties.Resources.resources
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.csproj.GenerateResource.cache
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.exe
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.pdb
+C:\Users\SH391MS\source\repos\AutoBoto\obj\Debug\AutoBoto.Form2.resources
